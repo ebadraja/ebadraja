@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ebadraja living in Pakistan a computer science student,front end web developer, wordpress designer and freelancer
+- 👀 I’m interested in competitive coding and blockchain development
+- 🌱 I’m currently learning blockchain development 
+- 💞️ I’m looking to collaborate on a blockchain project
+- 📫 You can reach me on whatsapp +923041102372 or Facebook page linear marketings and Seo or website https://Linearmarketings.com
+- I started my freelancing career back 2016
+--->
