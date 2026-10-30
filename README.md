@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @ebadraja living in Pakistan a computer science student,front end web developer, wordpress designer and freelancer
-- 👀 I’m interested in competitive coding and blockchain development
-- 🌱 I’m currently learning blockchain development 
-- 💞️ I’m looking to collaborate on a blockchain project
-- 📫 You can reach me on whatsapp +923041102372 or Facebook page linear marketings and Seo or website https://Linearmarketings.com
-- I started my freelancing career back 2016
---->
+### Hi, I'm Ebad 👋
+
+Full-stack developer and founder of **WebSculptors**. I build AI voice agents, CRMs and multi-tenant SaaS for clients worldwide specially US and EU.
+
+- 🔧 **Building:** custom CRMs, booking/field-service SaaS, AI receptionists and outbound calling agents
+- 💻 **Stack:** Next.js · React · TypeScript · Node.js · FastAPI · PostgreSQL · Redis
+- 🤖 **AI & automation:** Vapi · Retell AI · Twilio · n8n · OpenAI · Whisper
+- 💳 **Integrations:** Stripe · Google Calendar · GoHighLevel
+- 🌱 **Exploring:** blockchain and smart contracts
+- 🎓 Software Engineering @ NUML Islamabad
+
+
